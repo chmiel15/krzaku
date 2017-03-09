@@ -34,6 +34,7 @@
 		</Compiler>
 		<Unit filename="fun1.cpp" />
 		<Unit filename="head1.h" />
+		<Unit filename="head2.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />

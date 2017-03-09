@@ -1,0 +1,6 @@
+#ifndef HEAD2_H_INCLUDED
+#define HEAD2_H_INCLUDED
+
+
+
+#endif // HEAD2_H_INCLUDED
