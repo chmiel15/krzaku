@@ -4,6 +4,7 @@
 
 int main()
     double sr;
+    double del;
     int y=5;
     int liczby[5]={1,2,3,4,5};
     y-=2;
@@ -13,5 +14,7 @@ int main()
     sr=srednia(liczby, 5);
     std::cout<<"srednia "<<sr<<std::endl;
     std::cin>>sr;
+    del=delta(1,2,1);
+    std::cout<<"delta funkcji x^2+2x+1 wynosi:"<<del<<std::endl;
     return 0;
 }
