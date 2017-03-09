@@ -21,3 +21,9 @@ for(i=0, suma=0;i<t;i++)
 srednia=suma/t;
 return srednia;
 }
+double delta(int a, int b, int c)
+{
+  double delta;
+  delta=b*b-4*a*c;
+  return delta;
+}  
