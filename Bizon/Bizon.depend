@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1489017126 source:/home/patryk/Dokumenty/INF_2/git/hello/krzaku/Bizon/fun1.cpp
+	<iostream>
+	"head1.h"
+
+1489017497 /home/patryk/Dokumenty/INF_2/git/hello/krzaku/Bizon/head1.h
+	<iostream>
+
+1489049614 source:/home/patryk/Dokumenty/INF_2/git/hello/krzaku/Bizon/main.cpp
+	<iostream>
+	"head1.h"
+
